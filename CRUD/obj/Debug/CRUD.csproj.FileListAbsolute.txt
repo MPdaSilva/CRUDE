@@ -1,0 +1,15 @@
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\bin\Debug\CRUD.exe
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\bin\Debug\CRUD.pdb
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.Inicio.resources
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.exe
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.pdb
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\bin\Debug\banco.mdf
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\bin\Debug\banco_log.ldf
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.EventoForm.resources
+C:\Users\matheus.percino\Desktop\Projetos C#\CRUD\obj\Debug\CRUD.InstituicaoForm.resources
